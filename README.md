@@ -1,4 +1,4 @@
-د# Hi, I'm Mohamed Reda 👋
+Hi, I'm Mohamed Reda 👋
 
 Mechatronics Engineering student (Class of 2027) at Zagazig National University, focused on robotics, ROS2, and embedded systems.
 
